@@ -1,0 +1,349 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Tedarikciler>
+    <TedarikciID>1</TedarikciID>
+    <SirketAdi>Exotic Liquids</SirketAdi>
+    <MusteriAdi>Charlotte Cooper</MusteriAdi>
+    <MusteriUnvani>Purchasing Manager</MusteriUnvani>
+    <Adres>49 Gilbert St.</Adres>
+    <Sehir>London</Sehir>
+    <PostaKodu>EC1 4SD</PostaKodu>
+    <Ulke>UK</Ulke>
+    <Telefon>(171) 555-2222</Telefon>
+  </Tedarikciler>
+  <Tedarikciler>
+    <TedarikciID>2</TedarikciID>
+    <SirketAdi>New Orleans Cajun Delights</SirketAdi>
+    <MusteriAdi>Shelley Burke</MusteriAdi>
+    <MusteriUnvani>Order Administrator</MusteriUnvani>
+    <Adres>P.O. Box 78934</Adres>
+    <Sehir>New Orleans</Sehir>
+    <Bolge>LA</Bolge>
+    <PostaKodu>70117</PostaKodu>
+    <Ulke>USA</Ulke>
+    <Telefon>(100) 555-4822</Telefon>
+    <WebSayfasi>#CAJUN.HTM#</WebSayfasi>
+  </Tedarikciler>
+  <Tedarikciler>
+    <TedarikciID>3</TedarikciID>
+    <SirketAdi>Grandma Kelly's Homestead</SirketAdi>
+    <MusteriAdi>Regina Murphy</MusteriAdi>
+    <MusteriUnvani>Sales Representative</MusteriUnvani>
+    <Adres>707 Oxford Rd.</Adres>
+    <Sehir>Ann Arbor</Sehir>
+    <Bolge>MI</Bolge>
+    <PostaKodu>48104</PostaKodu>
+    <Ulke>USA</Ulke>
+    <Telefon>(313) 555-5735</Telefon>
+    <Faks>(313) 555-3349</Faks>
+  </Tedarikciler>
+  <Tedarikciler>
+    <TedarikciID>4</TedarikciID>
+    <SirketAdi>Tokyo Traders</SirketAdi>
+    <MusteriAdi>Yoshi Nagase</MusteriAdi>
+    <MusteriUnvani>Marketing Manager</MusteriUnvani>
+    <Adres>9-8 Sekimai Musashino-shi</Adres>
+    <Sehir>Tokyo</Sehir>
+    <PostaKodu>100</PostaKodu>
+    <Ulke>Japan</Ulke>
+    <Telefon>(03) 3555-5011</Telefon>
+  </Tedarikciler>
+  <Tedarikciler>
+    <TedarikciID>5</TedarikciID>
+    <SirketAdi>Cooperativa de Quesos 'Las Cabras'</SirketAdi>
+    <MusteriAdi>Antonio del Valle Saavedra</MusteriAdi>
+    <MusteriUnvani>Export Administrator</MusteriUnvani>
+    <Adres>Calle del Rosal 4</Adres>
+    <Sehir>Oviedo</Sehir>
+    <Bolge>Asturias</Bolge>
+    <PostaKodu>33007</PostaKodu>
+    <Ulke>Spain</Ulke>
+    <Telefon>(98) 598 76 54</Telefon>
+  </Tedarikciler>
+  <Tedarikciler>
+    <TedarikciID>6</TedarikciID>
+    <SirketAdi>Mayumi's</SirketAdi>
+    <MusteriAdi>Mayumi Ohno</MusteriAdi>
+    <MusteriUnvani>Marketing Representative</MusteriUnvani>
+    <Adres>92 Setsuko Chuo-ku</Adres>
+    <Sehir>Osaka</Sehir>
+    <PostaKodu>545</PostaKodu>
+    <Ulke>Japan</Ulke>
+    <Telefon>(06) 431-7877</Telefon>
+    <WebSayfasi>Mayumi's (on the World Wide Web)#http://www.microsoft.com/accessdev/sampleapps/mayumi.htm#</WebSayfasi>
+  </Tedarikciler>
+  <Tedarikciler>
+    <TedarikciID>7</TedarikciID>
+    <SirketAdi>Pavlova, Ltd.</SirketAdi>
+    <MusteriAdi>Ian Devling</MusteriAdi>
+    <MusteriUnvani>Marketing Manager</MusteriUnvani>
+    <Adres>74 Rose St. Moonie Ponds</Adres>
+    <Sehir>Melbourne</Sehir>
+    <Bolge>Victoria</Bolge>
+    <PostaKodu>3058</PostaKodu>
+    <Ulke>Australia</Ulke>
+    <Telefon>(03) 444-2343</Telefon>
+    <Faks>(03) 444-6588</Faks>
+  </Tedarikciler>
+  <Tedarikciler>
+    <TedarikciID>8</TedarikciID>
+    <SirketAdi>Specialty Biscuits, Ltd.</SirketAdi>
+    <MusteriAdi>Peter Wilson</MusteriAdi>
+    <MusteriUnvani>Sales Representative</MusteriUnvani>
+    <Adres>29 King's Way</Adres>
+    <Sehir>Manchester</Sehir>
+    <PostaKodu>M14 GSD</PostaKodu>
+    <Ulke>UK</Ulke>
+    <Telefon>(161) 555-4448</Telefon>
+  </Tedarikciler>
+  <Tedarikciler>
+    <TedarikciID>9</TedarikciID>
+    <SirketAdi>PB Knäckebröd AB</SirketAdi>
+    <MusteriAdi>Lars Peterson</MusteriAdi>
+    <MusteriUnvani>Sales Agent</MusteriUnvani>
+    <Adres>Kaloadagatan 13</Adres>
+    <Sehir>Göteborg</Sehir>
+    <PostaKodu>S-345 67</PostaKodu>
+    <Ulke>Sweden</Ulke>
+    <Telefon>031-987 65 43</Telefon>
+    <Faks>031-987 65 91</Faks>
+  </Tedarikciler>
+  <Tedarikciler>
+    <TedarikciID>10</TedarikciID>
+    <SirketAdi>Refrescos Americanas LTDA</SirketAdi>
+    <MusteriAdi>Carlos Diaz</MusteriAdi>
+    <MusteriUnvani>Marketing Manager</MusteriUnvani>
+    <Adres>Av. das Americanas 12.890</Adres>
+    <Sehir>Sao Paulo</Sehir>
+    <PostaKodu>5442</PostaKodu>
+    <Ulke>Brazil</Ulke>
+    <Telefon>(11) 555 4640</Telefon>
+  </Tedarikciler>
+  <Tedarikciler>
+    <TedarikciID>11</TedarikciID>
+    <SirketAdi>Heli Süßwaren GmbH &amp; Co. KG</SirketAdi>
+    <MusteriAdi>Petra Winkler</MusteriAdi>
+    <MusteriUnvani>Sales Manager</MusteriUnvani>
+    <Adres>Tiergartenstraße 5</Adres>
+    <Sehir>Berlin</Sehir>
+    <PostaKodu>10785</PostaKodu>
+    <Ulke>Germany</Ulke>
+    <Telefon>(010) 9984510</Telefon>
+  </Tedarikciler>
+  <Tedarikciler>
+    <TedarikciID>12</TedarikciID>
+    <SirketAdi>Plutzer Lebensmittelgroßmärkte AG</SirketAdi>
+    <MusteriAdi>Martin Bein</MusteriAdi>
+    <MusteriUnvani>International Marketing Mgr.</MusteriUnvani>
+    <Adres>Bogenallee 51</Adres>
+    <Sehir>Frankfurt</Sehir>
+    <PostaKodu>60439</PostaKodu>
+    <Ulke>Germany</Ulke>
+    <Telefon>(069) 992755</Telefon>
+    <WebSayfasi>Plutzer (on the World Wide Web)#http://www.microsoft.com/accessdev/sampleapps/plutzer.htm#</WebSayfasi>
+  </Tedarikciler>
+  <Tedarikciler>
+    <TedarikciID>13</TedarikciID>
+    <SirketAdi>Nord-Ost-Fisch Handelsgesellschaft mbH</SirketAdi>
+    <MusteriAdi>Sven Petersen</MusteriAdi>
+    <MusteriUnvani>Coordinator Foreign Markets</MusteriUnvani>
+    <Adres>Frahmredder 112a</Adres>
+    <Sehir>Cuxhaven</Sehir>
+    <PostaKodu>27478</PostaKodu>
+    <Ulke>Germany</Ulke>
+    <Telefon>(04721) 8713</Telefon>
+    <Faks>(04721) 8714</Faks>
+  </Tedarikciler>
+  <Tedarikciler>
+    <TedarikciID>14</TedarikciID>
+    <SirketAdi>Formaggi Fortini s.r.l.</SirketAdi>
+    <MusteriAdi>Elio Rossi</MusteriAdi>
+    <MusteriUnvani>Sales Representative</MusteriUnvani>
+    <Adres>Viale Dante, 75</Adres>
+    <Sehir>Ravenna</Sehir>
+    <PostaKodu>48100</PostaKodu>
+    <Ulke>Italy</Ulke>
+    <Telefon>(0544) 60323</Telefon>
+    <Faks>(0544) 60603</Faks>
+    <WebSayfasi>#FORMAGGI.HTM#</WebSayfasi>
+  </Tedarikciler>
+  <Tedarikciler>
+    <TedarikciID>15</TedarikciID>
+    <SirketAdi>Norske Meierier</SirketAdi>
+    <MusteriAdi>Beate Vileid</MusteriAdi>
+    <MusteriUnvani>Marketing Manager</MusteriUnvani>
+    <Adres>Hatlevegen 5</Adres>
+    <Sehir>Sandvika</Sehir>
+    <PostaKodu>1320</PostaKodu>
+    <Ulke>Norway</Ulke>
+    <Telefon>(0)2-953010</Telefon>
+  </Tedarikciler>
+  <Tedarikciler>
+    <TedarikciID>16</TedarikciID>
+    <SirketAdi>Bigfoot Breweries</SirketAdi>
+    <MusteriAdi>Cheryl Saylor</MusteriAdi>
+    <MusteriUnvani>Bolgeal Account Rep.</MusteriUnvani>
+    <Adres>3400 - 8th Avenue Suite 210</Adres>
+    <Sehir>Bend</Sehir>
+    <Bolge>OR</Bolge>
+    <PostaKodu>97101</PostaKodu>
+    <Ulke>USA</Ulke>
+    <Telefon>(503) 555-9931</Telefon>
+  </Tedarikciler>
+  <Tedarikciler>
+    <TedarikciID>17</TedarikciID>
+    <SirketAdi>Svensk Sjöföda AB</SirketAdi>
+    <MusteriAdi>Michael Björn</MusteriAdi>
+    <MusteriUnvani>Sales Representative</MusteriUnvani>
+    <Adres>Brovallavägen 231</Adres>
+    <Sehir>Stockholm</Sehir>
+    <PostaKodu>S-123 45</PostaKodu>
+    <Ulke>Sweden</Ulke>
+    <Telefon>08-123 45 67</Telefon>
+  </Tedarikciler>
+  <Tedarikciler>
+    <TedarikciID>18</TedarikciID>
+    <SirketAdi>Aux joyeux ecclésiastiques</SirketAdi>
+    <MusteriAdi>Guylène Nodier</MusteriAdi>
+    <MusteriUnvani>Sales Manager</MusteriUnvani>
+    <Adres>203, Rue des Francs-Bourgeois</Adres>
+    <Sehir>Paris</Sehir>
+    <PostaKodu>75004</PostaKodu>
+    <Ulke>France</Ulke>
+    <Telefon>(1) 03.83.00.68</Telefon>
+    <Faks>(1) 03.83.00.62</Faks>
+  </Tedarikciler>
+  <Tedarikciler>
+    <TedarikciID>19</TedarikciID>
+    <SirketAdi>New England Seafood Cannery</SirketAdi>
+    <MusteriAdi>Robb Merchant</MusteriAdi>
+    <MusteriUnvani>Wholesale Account Agent</MusteriUnvani>
+    <Adres>Order Processing Dept. 2100 Paul Revere Blvd.</Adres>
+    <Sehir>Boston</Sehir>
+    <Bolge>MA</Bolge>
+    <PostaKodu>02134</PostaKodu>
+    <Ulke>USA</Ulke>
+    <Telefon>(617) 555-3267</Telefon>
+    <Faks>(617) 555-3389</Faks>
+  </Tedarikciler>
+  <Tedarikciler>
+    <TedarikciID>20</TedarikciID>
+    <SirketAdi>Leka Trading</SirketAdi>
+    <MusteriAdi>Chandra Leka</MusteriAdi>
+    <MusteriUnvani>Owner</MusteriUnvani>
+    <Adres>471 Serangoon Loop, Suite #402</Adres>
+    <Sehir>Singapore</Sehir>
+    <PostaKodu>0512</PostaKodu>
+    <Ulke>Singapore</Ulke>
+    <Telefon>555-8787</Telefon>
+  </Tedarikciler>
+  <Tedarikciler>
+    <TedarikciID>21</TedarikciID>
+    <SirketAdi>Lyngbysild</SirketAdi>
+    <MusteriAdi>Niels Petersen</MusteriAdi>
+    <MusteriUnvani>Sales Manager</MusteriUnvani>
+    <Adres>Lyngbysild Fiskebakken 10</Adres>
+    <Sehir>Lyngby</Sehir>
+    <PostaKodu>2800</PostaKodu>
+    <Ulke>Denmark</Ulke>
+    <Telefon>43844108</Telefon>
+    <Faks>43844115</Faks>
+  </Tedarikciler>
+  <Tedarikciler>
+    <TedarikciID>22</TedarikciID>
+    <SirketAdi>Zaanse Snoepfabriek</SirketAdi>
+    <MusteriAdi>Dirk Luchte</MusteriAdi>
+    <MusteriUnvani>Accounting Manager</MusteriUnvani>
+    <Adres>Verkoop Rijnweg 22</Adres>
+    <Sehir>Zaandam</Sehir>
+    <PostaKodu>9999 ZZ</PostaKodu>
+    <Ulke>Netherlands</Ulke>
+    <Telefon>(12345) 1212</Telefon>
+    <Faks>(12345) 1210</Faks>
+  </Tedarikciler>
+  <Tedarikciler>
+    <TedarikciID>23</TedarikciID>
+    <SirketAdi>Karkki Oy</SirketAdi>
+    <MusteriAdi>Anne Heikkonen</MusteriAdi>
+    <MusteriUnvani>Urun Manager</MusteriUnvani>
+    <Adres>Valtakatu 12</Adres>
+    <Sehir>Lappeenranta</Sehir>
+    <PostaKodu>53120</PostaKodu>
+    <Ulke>Finland</Ulke>
+    <Telefon>(953) 10956</Telefon>
+  </Tedarikciler>
+  <Tedarikciler>
+    <TedarikciID>24</TedarikciID>
+    <SirketAdi>G'day, Mate</SirketAdi>
+    <MusteriAdi>Wendy Mackenzie</MusteriAdi>
+    <MusteriUnvani>Sales Representative</MusteriUnvani>
+    <Adres>170 Prince Edward Parade Hunter's Hill</Adres>
+    <Sehir>Sydney</Sehir>
+    <Bolge>NSW</Bolge>
+    <PostaKodu>2042</PostaKodu>
+    <Ulke>Australia</Ulke>
+    <Telefon>(02) 555-5914</Telefon>
+    <Faks>(02) 555-4873</Faks>
+    <WebSayfasi>G'day Mate (on the World Wide Web)#http://www.microsoft.com/accessdev/sampleapps/gdaymate.htm#</WebSayfasi>
+  </Tedarikciler>
+  <Tedarikciler>
+    <TedarikciID>25</TedarikciID>
+    <SirketAdi>Ma Maison</SirketAdi>
+    <MusteriAdi>Jean-Guy Lauzon</MusteriAdi>
+    <MusteriUnvani>Marketing Manager</MusteriUnvani>
+    <Adres>2960 Rue St. Laurent</Adres>
+    <Sehir>Montréal</Sehir>
+    <Bolge>Québec</Bolge>
+    <PostaKodu>H1J 1C3</PostaKodu>
+    <Ulke>Canada</Ulke>
+    <Telefon>(514) 555-9022</Telefon>
+  </Tedarikciler>
+  <Tedarikciler>
+    <TedarikciID>26</TedarikciID>
+    <SirketAdi>Pasta Buttini s.r.l.</SirketAdi>
+    <MusteriAdi>Giovanni Giudici</MusteriAdi>
+    <MusteriUnvani>Order Administrator</MusteriUnvani>
+    <Adres>Via dei Gelsomini, 153</Adres>
+    <Sehir>Salerno</Sehir>
+    <PostaKodu>84100</PostaKodu>
+    <Ulke>Italy</Ulke>
+    <Telefon>(089) 6547665</Telefon>
+    <Faks>(089) 6547667</Faks>
+  </Tedarikciler>
+  <Tedarikciler>
+    <TedarikciID>27</TedarikciID>
+    <SirketAdi>Escargots Nouveaux</SirketAdi>
+    <MusteriAdi>Marie Delamare</MusteriAdi>
+    <MusteriUnvani>Sales Manager</MusteriUnvani>
+    <Adres>22, rue H. Voiron</Adres>
+    <Sehir>Montceau</Sehir>
+    <PostaKodu>71300</PostaKodu>
+    <Ulke>France</Ulke>
+    <Telefon>85.57.00.07</Telefon>
+  </Tedarikciler>
+  <Tedarikciler>
+    <TedarikciID>28</TedarikciID>
+    <SirketAdi>Gai pâturage</SirketAdi>
+    <MusteriAdi>Eliane Noz</MusteriAdi>
+    <MusteriUnvani>Sales Representative</MusteriUnvani>
+    <Adres>Bat. B 3, rue des Alpes</Adres>
+    <Sehir>Annecy</Sehir>
+    <PostaKodu>74000</PostaKodu>
+    <Ulke>France</Ulke>
+    <Telefon>38.76.98.06</Telefon>
+    <Faks>38.76.98.58</Faks>
+  </Tedarikciler>
+  <Tedarikciler>
+    <TedarikciID>29</TedarikciID>
+    <SirketAdi>Forêts d'érables</SirketAdi>
+    <MusteriAdi>Chantal Goulet</MusteriAdi>
+    <MusteriUnvani>Accounting Manager</MusteriUnvani>
+    <Adres>148 rue Chasseur</Adres>
+    <Sehir>Ste-Hyacinthe</Sehir>
+    <Bolge>Québec</Bolge>
+    <PostaKodu>J2S 7S8</PostaKodu>
+    <Ulke>Canada</Ulke>
+    <Telefon>(514) 555-2955</Telefon>
+    <Faks>(514) 555-2921</Faks>
+  </Tedarikciler>
+</NewDataSet>

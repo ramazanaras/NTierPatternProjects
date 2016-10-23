@@ -1,0 +1,5 @@
+C:\Users\RAMAZAN\Desktop\OtelOtomasyonu\OtelOtomasyonu.ORM\obj\Debug\OtelOtomasyonu.ORM.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\OtelOtomasyonu\OtelOtomasyonu.ORM\bin\Debug\OtelOtomasyonu.ORM.dll
+C:\Users\RAMAZAN\Desktop\OtelOtomasyonu\OtelOtomasyonu.ORM\bin\Debug\OtelOtomasyonu.ORM.pdb
+C:\Users\RAMAZAN\Desktop\OtelOtomasyonu\OtelOtomasyonu.ORM\obj\Debug\OtelOtomasyonu.ORM.dll
+C:\Users\RAMAZAN\Desktop\OtelOtomasyonu\OtelOtomasyonu.ORM\obj\Debug\OtelOtomasyonu.ORM.pdb

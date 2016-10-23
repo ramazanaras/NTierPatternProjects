@@ -1,0 +1,18 @@
+C:\Users\RAMAZAN\Desktop\B304Mimari\B304Mimari.WinFormUI\bin\Debug\B304Mimari.WinFormUI.exe.config
+C:\Users\RAMAZAN\Desktop\B304Mimari\B304Mimari.WinFormUI\bin\Debug\B304Mimari.WinFormUI.exe
+C:\Users\RAMAZAN\Desktop\B304Mimari\B304Mimari.WinFormUI\bin\Debug\B304Mimari.WinFormUI.pdb
+C:\Users\RAMAZAN\Desktop\B304Mimari\B304Mimari.WinFormUI\obj\Debug\B304Mimari.WinFormUI.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\B304Mimari\B304Mimari.WinFormUI\obj\Debug\B304Mimari.WinFormUI.Form1.resources
+C:\Users\RAMAZAN\Desktop\B304Mimari\B304Mimari.WinFormUI\obj\Debug\B304Mimari.WinFormUI.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\B304Mimari\B304Mimari.WinFormUI\obj\Debug\B304Mimari.WinFormUI.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\B304Mimari\B304Mimari.WinFormUI\obj\Debug\B304Mimari.WinFormUI.exe
+C:\Users\RAMAZAN\Desktop\B304Mimari\B304Mimari.WinFormUI\obj\Debug\B304Mimari.WinFormUI.pdb
+C:\Users\RAMAZAN\Desktop\B304Mimari\B304Mimari.WinFormUI\bin\Debug\B304Mimari.Entity.dll
+C:\Users\RAMAZAN\Desktop\B304Mimari\B304Mimari.WinFormUI\bin\Debug\B304Mimari.ORM.dll
+C:\Users\RAMAZAN\Desktop\B304Mimari\B304Mimari.WinFormUI\bin\Debug\B304Mimari.Entity.pdb
+C:\Users\RAMAZAN\Desktop\B304Mimari\B304Mimari.WinFormUI\bin\Debug\B304Mimari.ORM.pdb
+C:\Users\RAMAZAN\Desktop\B304Mimari\B304Mimari.WinFormUI\obj\Debug\B304Mimari.WinFormUI.UrunlerForm.resources
+C:\Users\RAMAZAN\Desktop\B304Mimari\B304Mimari.WinFormUI\obj\Debug\B304Mimari.WinFormUI.KategorilerForm.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\4.1-ADONET\B304Mimari\B304Mimari.WinFormUI\bin\Debug\B304Mimari.WinFormUI.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\4.1-ADONET\B304Mimari\B304Mimari.WinFormUI\obj\Debug\B304Mimari.WinFormUI.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\4.1-ADONET\B304Mimari\B304Mimari.WinFormUI\obj\Debug\B304Mimari.WinFormUI.pdb

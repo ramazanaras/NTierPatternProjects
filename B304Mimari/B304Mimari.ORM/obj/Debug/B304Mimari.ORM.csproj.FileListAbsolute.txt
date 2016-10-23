@@ -1,0 +1,7 @@
+C:\Users\RAMAZAN\Desktop\B304Mimari\B304Mimari.ORM\bin\Debug\B304Mimari.ORM.dll
+C:\Users\RAMAZAN\Desktop\B304Mimari\B304Mimari.ORM\bin\Debug\B304Mimari.ORM.pdb
+C:\Users\RAMAZAN\Desktop\B304Mimari\B304Mimari.ORM\bin\Debug\B304Mimari.Entity.dll
+C:\Users\RAMAZAN\Desktop\B304Mimari\B304Mimari.ORM\bin\Debug\B304Mimari.Entity.pdb
+C:\Users\RAMAZAN\Desktop\B304Mimari\B304Mimari.ORM\obj\Debug\B304Mimari.ORM.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\B304Mimari\B304Mimari.ORM\obj\Debug\B304Mimari.ORM.dll
+C:\Users\RAMAZAN\Desktop\B304Mimari\B304Mimari.ORM\obj\Debug\B304Mimari.ORM.pdb

@@ -1,0 +1,1 @@
+KuzeyYeli.winformuUI'da KuzeyYeli.ORM'i reference olarak ekliyoruz.

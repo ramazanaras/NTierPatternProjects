@@ -1,0 +1,10 @@
+C:\Users\RAMAZAN\Desktop\XmlYazma\XmlYazma\bin\Debug\XmlYazma.exe.config
+C:\Users\RAMAZAN\Desktop\XmlYazma\XmlYazma\bin\Debug\XmlYazma.exe
+C:\Users\RAMAZAN\Desktop\XmlYazma\XmlYazma\bin\Debug\XmlYazma.pdb
+C:\Users\RAMAZAN\Desktop\XmlYazma\XmlYazma\obj\Debug\XmlYazma.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\XmlYazma\XmlYazma\obj\Debug\XmlYazma.Form1.resources
+C:\Users\RAMAZAN\Desktop\XmlYazma\XmlYazma\obj\Debug\XmlYazma.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\XmlYazma\XmlYazma\obj\Debug\XmlYazma.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\XmlYazma\XmlYazma\obj\Debug\XmlYazma.exe
+C:\Users\RAMAZAN\Desktop\XmlYazma\XmlYazma\obj\Debug\XmlYazma.pdb
+C:\Users\RAMAZAN\Desktop\XmlYazma\XmlYazma\obj\Debug\XmlYazma.DbToXmlForm.resources

@@ -1,0 +1,10 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\4.1-ADONET\ado1_connected_mimari\ado1_connected_mimari\bin\Debug\ado1_connected_mimari.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\4.1-ADONET\ado1_connected_mimari\ado1_connected_mimari\bin\Debug\ado1_connected_mimari.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\4.1-ADONET\ado1_connected_mimari\ado1_connected_mimari\bin\Debug\ado1_connected_mimari.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\4.1-ADONET\ado1_connected_mimari\ado1_connected_mimari\obj\Debug\ado1_connected_mimari.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\4.1-ADONET\ado1_connected_mimari\ado1_connected_mimari\obj\Debug\ado1_connected_mimari.Form1.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\4.1-ADONET\ado1_connected_mimari\ado1_connected_mimari\obj\Debug\ado1_connected_mimari.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\4.1-ADONET\ado1_connected_mimari\ado1_connected_mimari\obj\Debug\ado1_connected_mimari.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\4.1-ADONET\ado1_connected_mimari\ado1_connected_mimari\obj\Debug\ado1_connected_mimari.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\4.1-ADONET\ado1_connected_mimari\ado1_connected_mimari\obj\Debug\ado1_connected_mimari.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\4.1-ADONET\ado1_connected_mimari\ado1_connected_mimari\obj\Debug\ado1_connected_mimari.CategoryForm.resources

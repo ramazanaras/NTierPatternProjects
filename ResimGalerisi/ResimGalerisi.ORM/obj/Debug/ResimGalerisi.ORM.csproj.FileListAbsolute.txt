@@ -1,0 +1,5 @@
+C:\Users\RAMAZAN\Desktop\ResimGalerisi\ResimGalerisi.ORM\bin\Debug\ResimGalerisi.ORM.dll
+C:\Users\RAMAZAN\Desktop\ResimGalerisi\ResimGalerisi.ORM\bin\Debug\ResimGalerisi.ORM.pdb
+C:\Users\RAMAZAN\Desktop\ResimGalerisi\ResimGalerisi.ORM\obj\Debug\ResimGalerisi.ORM.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\ResimGalerisi\ResimGalerisi.ORM\obj\Debug\ResimGalerisi.ORM.dll
+C:\Users\RAMAZAN\Desktop\ResimGalerisi\ResimGalerisi.ORM\obj\Debug\ResimGalerisi.ORM.pdb

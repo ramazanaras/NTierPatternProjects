@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\XmlOkuma\XmlOkuma\bin\Debug\XmlOkuma.exe.config
+C:\Users\RAMAZAN\Desktop\XmlOkuma\XmlOkuma\bin\Debug\XmlOkuma.exe
+C:\Users\RAMAZAN\Desktop\XmlOkuma\XmlOkuma\bin\Debug\XmlOkuma.pdb
+C:\Users\RAMAZAN\Desktop\XmlOkuma\XmlOkuma\obj\Debug\XmlOkuma.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\XmlOkuma\XmlOkuma\obj\Debug\XmlOkuma.Form1.resources
+C:\Users\RAMAZAN\Desktop\XmlOkuma\XmlOkuma\obj\Debug\XmlOkuma.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\XmlOkuma\XmlOkuma\obj\Debug\XmlOkuma.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\XmlOkuma\XmlOkuma\obj\Debug\XmlOkuma.exe
+C:\Users\RAMAZAN\Desktop\XmlOkuma\XmlOkuma\obj\Debug\XmlOkuma.pdb

@@ -1,0 +1,23 @@
+Otel Otomasyonu
+1.Odalar
+2-Oda Türleri
+3-Ozellikler Tablosu
+4.OdaOzellikleri
+4.Rezervasyon Ýþlemleri
+4.Tedarikçiler
+5.Müþteriler
+6.Personeller
+6.Personel Çalýþma Saatleri
+6.Personel Maaþlarý
+7.Kategoriler
+7.Ürünler
+8.Hizmetler
+9.Kampanyalar
+9.Kampanya Detay
+10.Satýn Alma
+11.Satýþ
+12.Ürün Satýþý(Satýþ Detay)
+13 ODa Satýþý(Satýþ Detay)
+14.Kasa
+15.Kasa Hareketleri
+16.KasaHareketTip(Gelir mi Gider mi)

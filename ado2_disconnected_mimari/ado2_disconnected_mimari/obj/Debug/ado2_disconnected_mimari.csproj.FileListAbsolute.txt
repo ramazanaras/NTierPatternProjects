@@ -1,0 +1,10 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\4.1-ADONET\ado2_disconnected_mimari\ado2_disconnected_mimari\bin\Debug\ado2_disconnected_mimari.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\4.1-ADONET\ado2_disconnected_mimari\ado2_disconnected_mimari\bin\Debug\ado2_disconnected_mimari.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\4.1-ADONET\ado2_disconnected_mimari\ado2_disconnected_mimari\bin\Debug\ado2_disconnected_mimari.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\4.1-ADONET\ado2_disconnected_mimari\ado2_disconnected_mimari\obj\Debug\ado2_disconnected_mimari.Form1.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\4.1-ADONET\ado2_disconnected_mimari\ado2_disconnected_mimari\obj\Debug\ado2_disconnected_mimari.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\4.1-ADONET\ado2_disconnected_mimari\ado2_disconnected_mimari\obj\Debug\ado2_disconnected_mimari.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\4.1-ADONET\ado2_disconnected_mimari\ado2_disconnected_mimari\obj\Debug\ado2_disconnected_mimari.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\4.1-ADONET\ado2_disconnected_mimari\ado2_disconnected_mimari\obj\Debug\ado2_disconnected_mimari.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\4.1-ADONET\ado2_disconnected_mimari\ado2_disconnected_mimari\obj\Debug\ado2_disconnected_mimari.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\4.1-ADONET\ado2_disconnected_mimari\ado2_disconnected_mimari\obj\Debug\ado2_disconnected_mimari.KategoriForm.resources

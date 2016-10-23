@@ -1,0 +1,15 @@
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.WinFormUI\bin\Debug\KuzeyYeli.WinFormUI.exe.config
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.WinFormUI\bin\Debug\KuzeyYeli.WinFormUI.exe
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.WinFormUI\bin\Debug\KuzeyYeli.WinFormUI.pdb
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.WinFormUI\bin\Debug\KuzeyYeli.ORM.dll
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.WinFormUI\bin\Debug\KuzeyYeli.ORM.pdb
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.WinFormUI\obj\Debug\KuzeyYeli.WinFormUI.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.WinFormUI\obj\Debug\KuzeyYeli.WinFormUI.Form1.resources
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.WinFormUI\obj\Debug\KuzeyYeli.WinFormUI.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.WinFormUI\obj\Debug\KuzeyYeli.WinFormUI.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.WinFormUI\obj\Debug\KuzeyYeli.WinFormUI.exe
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.WinFormUI\obj\Debug\KuzeyYeli.WinFormUI.pdb
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.WinFormUI\obj\Debug\KuzeyYeli.WinFormUI.UrunForm.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\4.1-ADONET\KuzeyYeli\KuzeyYeli.WinFormUI\bin\Debug\KuzeyYeli.WinFormUI.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\4.1-ADONET\KuzeyYeli\KuzeyYeli.WinFormUI\obj\Debug\KuzeyYeli.WinFormUI.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\4.1-ADONET\KuzeyYeli\KuzeyYeli.WinFormUI\obj\Debug\KuzeyYeli.WinFormUI.pdb

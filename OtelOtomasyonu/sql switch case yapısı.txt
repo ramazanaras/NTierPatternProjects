@@ -1,0 +1,24 @@
+alter proc prc_Musteriler_Select
+as
+begin
+select 
+Adi,
+Soyadi,
+SirketAdi,
+Tckn,
+TelNo,
+DogumTarihi,
+case MedeniDurum
+when 1  then 'Bekar'  --eðer 1 ise Bekar yaz
+when 2  then 'Evli'   --eðer 2 ise Evli yaz
+end as MedeniDurum,   --oluþan kolona isim verdik.
+
+case Cinsiyet 
+when 1 then 'Kadýn'
+when 2 then 'Erkek'
+end as Cinsiyet
+
+from Musteriler
+
+
+end

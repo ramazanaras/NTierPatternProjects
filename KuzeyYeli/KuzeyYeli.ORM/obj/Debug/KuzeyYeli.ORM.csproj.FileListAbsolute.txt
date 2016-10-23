@@ -1,0 +1,5 @@
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.ORM\bin\Debug\KuzeyYeli.ORM.dll
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.ORM\bin\Debug\KuzeyYeli.ORM.pdb
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.ORM\obj\Debug\KuzeyYeli.ORM.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.ORM\obj\Debug\KuzeyYeli.ORM.dll
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.ORM\obj\Debug\KuzeyYeli.ORM.pdb

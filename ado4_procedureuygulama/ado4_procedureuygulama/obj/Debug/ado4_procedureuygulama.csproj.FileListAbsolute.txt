@@ -1,0 +1,10 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\4.1-ADONET\ado4_procedureuygulama\ado4_procedureuygulama\bin\Debug\ado4_procedureuygulama.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\4.1-ADONET\ado4_procedureuygulama\ado4_procedureuygulama\bin\Debug\ado4_procedureuygulama.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\4.1-ADONET\ado4_procedureuygulama\ado4_procedureuygulama\bin\Debug\ado4_procedureuygulama.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\4.1-ADONET\ado4_procedureuygulama\ado4_procedureuygulama\obj\Debug\ado4_procedureuygulama.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\4.1-ADONET\ado4_procedureuygulama\ado4_procedureuygulama\obj\Debug\ado4_procedureuygulama.Form1.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\4.1-ADONET\ado4_procedureuygulama\ado4_procedureuygulama\obj\Debug\ado4_procedureuygulama.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\4.1-ADONET\ado4_procedureuygulama\ado4_procedureuygulama\obj\Debug\ado4_procedureuygulama.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\4.1-ADONET\ado4_procedureuygulama\ado4_procedureuygulama\obj\Debug\ado4_procedureuygulama.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\4.1-ADONET\ado4_procedureuygulama\ado4_procedureuygulama\obj\Debug\ado4_procedureuygulama.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\4.1-ADONET\ado4_procedureuygulama\ado4_procedureuygulama\obj\Debug\ado4_procedureuygulama.KategoriForm.resources

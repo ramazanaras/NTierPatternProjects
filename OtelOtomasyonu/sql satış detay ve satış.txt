@@ -1,0 +1,31 @@
+alter proc prc_Satis_Insert
+@MusteriID int,
+@PersonelID int,
+@OdaID int,
+@OdaFiyati money,
+@SatisTarihi datetime
+as
+begin
+
+insert into Satis values(@MusteriID,@PersonelID,@OdaID,@OdaFiyati,@SatisTarihi)
+select SCOPE_IDENTITY()--eklenen kaydýn identity deðerini dönderir. kod tarafýndada execute scalar ile bu veriyi alabiliriz.
+
+end
+
+
+go 
+
+
+
+create proc prc_SatisDetay_Insert
+@SatisID int,
+@UrunID int,
+@Miktar float,
+@Fiyat money,
+@Indirim float
+as
+begin
+
+insert SatisDetay values(@SatisID,@UrunID,@Miktar,@Fiyat,@Indirim)
+
+end

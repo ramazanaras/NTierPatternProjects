@@ -1,0 +1,5 @@
+C:\Users\RAMAZAN\Desktop\B304Mimari\B304Mimari.Entity\bin\Debug\B304Mimari.Entity.dll
+C:\Users\RAMAZAN\Desktop\B304Mimari\B304Mimari.Entity\bin\Debug\B304Mimari.Entity.pdb
+C:\Users\RAMAZAN\Desktop\B304Mimari\B304Mimari.Entity\obj\Debug\B304Mimari.Entity.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\B304Mimari\B304Mimari.Entity\obj\Debug\B304Mimari.Entity.dll
+C:\Users\RAMAZAN\Desktop\B304Mimari\B304Mimari.Entity\obj\Debug\B304Mimari.Entity.pdb

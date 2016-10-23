@@ -1,0 +1,15 @@
+<filmler>
+  <film adi="Esaretin Bedeli" turu="Gerilim" yili="2016" yonetmen="Frank Darabond" imdb="9.3">
+    <oyuncular>
+      <oyuncu>Morgan Freeman</oyuncu>
+      <oyuncu>Ramazan Aras</oyuncu>
+      <oyuncu>Muhammed Sırkıntı</oyuncu>
+    </oyuncular>
+  </film>
+  <film adi="Recep ivedik" turu="Macera" yili="2010" yonetmen="Kogan gökbahar" imdb="8">
+    <oyuncular>
+      <oyuncu>Şahan Gökbakar</oyuncu>
+      <oyuncu>Ahmet kural</oyuncu>
+    </oyuncular>
+  </film>
+</filmler>

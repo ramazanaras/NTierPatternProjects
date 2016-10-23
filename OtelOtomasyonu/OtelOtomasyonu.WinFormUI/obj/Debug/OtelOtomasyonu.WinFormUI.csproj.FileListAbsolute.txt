@@ -1,0 +1,26 @@
+C:\Users\RAMAZAN\Desktop\OtelOtomasyonu\OtelOtomasyonu.WinFormUI\bin\Debug\OtelOtomasyonu.WinFormUI.exe.config
+C:\Users\RAMAZAN\Desktop\OtelOtomasyonu\OtelOtomasyonu.WinFormUI\bin\Debug\OtelOtomasyonu.WinFormUI.exe
+C:\Users\RAMAZAN\Desktop\OtelOtomasyonu\OtelOtomasyonu.WinFormUI\bin\Debug\OtelOtomasyonu.WinFormUI.pdb
+C:\Users\RAMAZAN\Desktop\OtelOtomasyonu\OtelOtomasyonu.WinFormUI\obj\Debug\OtelOtomasyonu.WinFormUI.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\OtelOtomasyonu\OtelOtomasyonu.WinFormUI\obj\Debug\OtelOtomasyonu.WinFormUI.Form1.resources
+C:\Users\RAMAZAN\Desktop\OtelOtomasyonu\OtelOtomasyonu.WinFormUI\obj\Debug\OtelOtomasyonu.WinFormUI.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\OtelOtomasyonu\OtelOtomasyonu.WinFormUI\obj\Debug\OtelOtomasyonu.WinFormUI.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\OtelOtomasyonu\OtelOtomasyonu.WinFormUI\obj\Debug\OtelOtomasyonu.WinFormUI.exe
+C:\Users\RAMAZAN\Desktop\OtelOtomasyonu\OtelOtomasyonu.WinFormUI\obj\Debug\OtelOtomasyonu.WinFormUI.pdb
+C:\Users\RAMAZAN\Desktop\OtelOtomasyonu\OtelOtomasyonu.WinFormUI\bin\Debug\OtelOtomasyonu.ORM.dll
+C:\Users\RAMAZAN\Desktop\OtelOtomasyonu\OtelOtomasyonu.WinFormUI\bin\Debug\OtelOtomasyonu.ORM.pdb
+C:\Users\RAMAZAN\Desktop\OtelOtomasyonu\OtelOtomasyonu.WinFormUI\obj\Debug\OtelOtomasyonu.WinFormUI.KasaForm.resources
+C:\Users\RAMAZAN\Desktop\OtelOtomasyonu\OtelOtomasyonu.WinFormUI\obj\Debug\OtelOtomasyonu.WinFormUI.BirimTipForm.resources
+C:\Users\RAMAZAN\Desktop\OtelOtomasyonu\OtelOtomasyonu.WinFormUI\obj\Debug\OtelOtomasyonu.WinFormUI.KategoriForm.resources
+C:\Users\RAMAZAN\Desktop\OtelOtomasyonu\OtelOtomasyonu.WinFormUI\obj\Debug\OtelOtomasyonu.WinFormUI.UrunForm.resources
+C:\Users\RAMAZAN\Desktop\OtelOtomasyonu\OtelOtomasyonu.WinFormUI\obj\Debug\OtelOtomasyonu.WinFormUI.OdaTurleriForm.resources
+C:\Users\RAMAZAN\Desktop\OtelOtomasyonu\OtelOtomasyonu.WinFormUI\obj\Debug\OtelOtomasyonu.WinFormUI.OdalarForm.resources
+C:\Users\RAMAZAN\Desktop\OtelOtomasyonu\OtelOtomasyonu.WinFormUI\obj\Debug\OtelOtomasyonu.WinFormUI.OzelliklerForm.resources
+C:\Users\RAMAZAN\Desktop\OtelOtomasyonu\OtelOtomasyonu.WinFormUI\obj\Debug\OtelOtomasyonu.WinFormUI.OdaOzellikForm.resources
+C:\Users\RAMAZAN\Desktop\OtelOtomasyonu\OtelOtomasyonu.WinFormUI\obj\Debug\OtelOtomasyonu.WinFormUI.MusteriForm.resources
+C:\Users\RAMAZAN\Desktop\OtelOtomasyonu\OtelOtomasyonu.WinFormUI\obj\Debug\OtelOtomasyonu.WinFormUI.PersonellerForm.resources
+C:\Users\RAMAZAN\Desktop\OtelOtomasyonu\OtelOtomasyonu.WinFormUI\obj\Debug\OtelOtomasyonu.WinFormUI.GirisYapForm.resources
+C:\Users\RAMAZAN\Desktop\OtelOtomasyonu\OtelOtomasyonu.WinFormUI\obj\Debug\OtelOtomasyonu.WinFormUI.SatisForm.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\4.1-ADONET\OtelOtomasyonu\OtelOtomasyonu.WinFormUI\bin\Debug\OtelOtomasyonu.WinFormUI.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\4.1-ADONET\OtelOtomasyonu\OtelOtomasyonu.WinFormUI\obj\Debug\OtelOtomasyonu.WinFormUI.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\4.1-ADONET\OtelOtomasyonu\OtelOtomasyonu.WinFormUI\obj\Debug\OtelOtomasyonu.WinFormUI.pdb

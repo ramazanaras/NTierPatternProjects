@@ -1,0 +1,12 @@
+C:\Users\RAMAZAN\Desktop\ResimGalerisi\ResimGalerisi\bin\Debug\ResimGalerisi.exe.config
+C:\Users\RAMAZAN\Desktop\ResimGalerisi\ResimGalerisi\bin\Debug\ResimGalerisi.exe
+C:\Users\RAMAZAN\Desktop\ResimGalerisi\ResimGalerisi\bin\Debug\ResimGalerisi.pdb
+C:\Users\RAMAZAN\Desktop\ResimGalerisi\ResimGalerisi\bin\Debug\ResimGalerisi.ORM.dll
+C:\Users\RAMAZAN\Desktop\ResimGalerisi\ResimGalerisi\bin\Debug\ResimGalerisi.ORM.pdb
+C:\Users\RAMAZAN\Desktop\ResimGalerisi\ResimGalerisi\obj\Debug\ResimGalerisi.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\ResimGalerisi\ResimGalerisi\obj\Debug\ResimGalerisi.Form1.resources
+C:\Users\RAMAZAN\Desktop\ResimGalerisi\ResimGalerisi\obj\Debug\ResimGalerisi.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\ResimGalerisi\ResimGalerisi\obj\Debug\ResimGalerisi.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\ResimGalerisi\ResimGalerisi\obj\Debug\ResimGalerisi.exe
+C:\Users\RAMAZAN\Desktop\ResimGalerisi\ResimGalerisi\obj\Debug\ResimGalerisi.pdb
+C:\Users\RAMAZAN\Desktop\ResimGalerisi\ResimGalerisi\obj\Debug\ResimGalerisi.ResimlerForm.resources

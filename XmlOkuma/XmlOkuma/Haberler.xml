@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<haberler>
+  <baslik>Spor Haber Xml Servisi</baslik>
+  <aciklama>Spor Haberlerinin anlık olarak paylaşıldığı xml servisi</aciklama>
+  <link>http://www.fanatik.com</link>
+  <tarih>06.05.2016-Cuma</tarih>
+
+
+  <haber>
+    <baslik>Beşiktaşa müthiş rakam! 50 milyon euro</baslik>
+    <aciklama>Beşiktaşta bazı oyuncuların yurtdışında gelen tekliflerin toplamda 45-50 milyon euroya ulaştığı belirlendi</aciklama>
+  </haber>
+
+
+  <haber>
+    <baslik>Yıldız oyuncunun şok sakatlığı.Euro 2016'yı kaçıracak.</baslik>
+    <aciklama>Borussia dortmundun türk asıllı alman futbolcusu İlkay Gündoğay sakatlığı sebebiyle yazın oynanacak Euro2016 da forma giyemeyecek</aciklama>
+  </haber>
+
+  <haber>
+    <baslik>Guardiola noktayı koydu.Denayer kararı</baslik>
+    <aciklama>Guardiola takımı bıraktı.</aciklama>
+  </haber>
+
+  <haber>
+    <baslik>SAbri galatasaraydan ayrıldı</baslik>
+    <aciklama>Sabri  galatasaraydan ayrıldığını açıkladı.</aciklama>
+  </haber>
+
+  <haber>
+    <baslik>Beşiktaş liverpoola yenildi</baslik>
+    <aciklama>Beşiktaşlı futbolcular galatasaraydan ayrıldığını açıkladı.</aciklama>
+  </haber>
+
+
+
+
+
+
+
+</haberler>
